@@ -1,0 +1,23 @@
+USE catalog;
+INSERT INTO directors (firstName, lastName) VALUES
+("Peter", "Jackson"),
+("Christopher", "Nolan"),
+("Seth", "MacFarlane"),
+("Tim", "Miller"),
+("Malcolm", "D.Lee"),
+("Guy", "Ritchie"),
+("Andrew", "Adamson"),
+("Chris", "Miller"),
+("Mike", "Mitchell"),
+("Makoto", "Shinkai"),
+("Fernando", "Aranoa"),
+("James", "Marsh"),
+("David", "Fincher"),
+("Pete", "Docter"),
+("James", "DeMonaco"),
+("Declan", "Donnellan"),
+("Baz", "Luhrmann"),
+("Chris", "Columbus"),
+("Alfonso", "Cuaron"),
+("Mike", "Newell"),
+("David", "Yates");
